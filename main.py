@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('hi,flag{03321386129b425e2c190baf810f8e44}')
+    print_hi('Hi,are you  OK')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
